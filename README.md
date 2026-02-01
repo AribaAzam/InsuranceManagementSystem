@@ -1,4 +1,4 @@
-Created an Insurance Management web application using Mern Stack (react, express.js, node.js, mongodb)
+Created an Insurance Management web application using Mern Stack (React, Express.js, Node.js, MongoDB)
 Implemented 
   1. Crud operations
   2. Role-based Authentication and Authorization
